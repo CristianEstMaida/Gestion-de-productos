@@ -17,5 +17,5 @@ jobs:
 
     - name: Build and Push
       run: |
-        docker build -t cristianmaida/gestion-productos:v1 .
-        docker push cristianmaida/gestion-productos:v1
+        docker build -t cristianestmaida/gestion-productos:v1 .
+        docker push cristianestmaida/gestion-productos:v1
