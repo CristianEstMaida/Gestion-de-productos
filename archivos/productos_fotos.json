@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": 2,
+    "marca": "marca dos",
+    "precio": 222,
+    "path": "fotos/2.jpg"
+  },
+  {
+    "codigo": 3,
+    "marca": "marca tres",
+    "precio": 333,
+    "path": "fotos/3.jpg"
+  },
+  {
+    "codigo": 1,
+    "marca": "marca uno",
+    "precio": 111,
+    "path": "fotos/1.jpg"
+  },
+  {
+    "codigo": 4,
+    "marca": "marca_cuatro",
+    "precio": 444,
+    "path": "fotos/4.jpg"
+  }
+]
