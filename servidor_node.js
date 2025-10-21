@@ -49,6 +49,7 @@ const rutas_fotos = require("./routes_photos");
 app.use("/productos_fotos", rutas_fotos);
 
 
-app.listen(app.get('puerto'), ()=>{
+app.listen(app.get('puerto'), '0.0.0.0', ()=>{
     console.log('Servidor corriendo sobre puerto:', app.get('puerto'));
+
 });
